@@ -1,0 +1,1 @@
+- 重定向：command > file 2>&1。其中2是stderr,1是stdout
